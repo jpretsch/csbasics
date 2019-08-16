@@ -1,0 +1,2 @@
+# basics
+basic cs stuff
